@@ -2,8 +2,7 @@
 
 A real-time analytics platform for monitoring Xandeum pNode network health, performance metrics, and storage capacity. Built for the Xandeum Superteam Bounty.
 
-![Screenshot 2025-12-19 at 11.15.47 PM](public/Screenshot 2025-12-19 at 11.15.47 PM.png)
-![Screenshot 2025-12-19 at 11.15.47 PM](public/Screenshot 2025-12-19 at 11.15.47 PM.png)
+![](https://github.com/ic-n/analytics-platform-for-xandeum-pnodes/blob/main/public/Screenshot%202025-12-19%20at%2011.15.47%E2%80%AFPM.png?raw=true)
 
 ## Features
 
